@@ -4,7 +4,7 @@
 
 ClaudeやCodexから、文章・PDF・Word・Excel・PowerPoint・画像を翻訳できます。Blue OneのMCP接続と、ファイル転送・進捗確認・結果取得・トラブル対応を行うスキルをまとめたプラグインです。
 
-**非公開プレビュー：** リポジトリへのアクセス権が必要です。Blue Oneのアカウントと、通常の翻訳料金が必要です。
+Blue Oneのアカウントと、通常の翻訳料金が必要です。
 
 ## Claude Code・Codex
 
@@ -31,7 +31,7 @@ Install the Blue One translation plugin from https://github.com/yellowblue1/blue
 https://github.com/yellowblue1/blue-one-plugin
 ```
 
-**Blue One**を追加し、**Connectors**タブでBlue Oneを追加・接続します。ログインしてチームを選んでください。非公開プレビューの間は、ClaudeにもこのリポジトリへのGitHubアクセス権が必要です。
+**Blue One**を追加し、**Connectors**タブでBlue Oneを追加・接続します。ログインしてチームを選んでください。
 
 ## 使い方
 
@@ -45,4 +45,4 @@ Blue Oneで実際に翻訳した結果を返します。途中で失敗した場
 - Claude Team・Enterpriseでは、オーナーによるプラグイン配布元の許可、コネクタの追加、ファイル実行環境から**mcp.blue1.app**への通信許可が必要な場合があります。OAuth認証は各メンバーが行います。
 - インストールとOAuth認証は別です。組織のポリシーや通信制限は引き続き適用されます。
 
-このプレビューの再配布ライセンスは未確定です。
+再配布ライセンスは未確定です。

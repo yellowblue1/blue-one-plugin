@@ -4,7 +4,7 @@
 
 Translate text, PDFs, Word, Excel, PowerPoint, and images from Claude or Codex. The plugin includes the Blue One MCP connection and a skill that handles file transfers, progress, results, and troubleshooting.
 
-**Private preview:** repository access is required. A Blue One account is required; normal translation charges apply.
+A Blue One account is required; normal translation charges apply.
 
 ## Claude Code or Codex
 
@@ -31,7 +31,7 @@ In **Customize → Plugins → Add → Add marketplace**, enter:
 https://github.com/yellowblue1/blue-one-plugin
 ```
 
-Add **Blue One**, open its **Connectors** tab, and add/connect Blue One. Sign in and select your team. For this private preview, Claude also needs GitHub access to this repository.
+Add **Blue One**, open its **Connectors** tab, and add/connect Blue One. Sign in and select your team.
 
 ## Use
 
@@ -45,4 +45,4 @@ The plugin uses Blue One's actual translation result. If a step fails, it explai
 - On Claude Team/Enterprise, an owner may need to allow the plugin source, add the connector, and allow file-execution network access to **mcp.blue1.app**. Each member completes OAuth.
 - Installation and OAuth are separate. Organization policies and network restrictions still apply.
 
-This preview has no redistribution license yet.
+No redistribution license is currently specified.
