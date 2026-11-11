@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "blue-one",
+  "version": "0.1.0",
+  "description": "Translate text and attached documents with Blue One, preserve file layouts, and explain connection or transfer problems.",
+  "author": { "name": "Blue One", "url": "https://blue1.app" },
+  "homepage": "https://blue1.app",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Blue One",
+        "shortDescription": "Translate text and files with Blue One",
+        "developerName": "Blue One",
+        "category": "Productivity"
+      }
+    }
+  }
+}

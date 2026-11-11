@@ -1,0 +1,15 @@
+{
+  "name": "blue-one",
+  "description": "Translate text and attached documents with Blue One, preserve file layouts, and explain connection or transfer problems.",
+  "owner": {
+    "name": "Blue One",
+    "url": "https://blue1.app"
+  },
+  "plugins": [
+    {
+      "name": "blue-one",
+      "source": "./plugins/blue-one",
+      "description": "Translate text and attached documents with Blue One, preserve file layouts, and explain connection or transfer problems."
+    }
+  ]
+}

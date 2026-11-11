@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "blue-one": {
+      "type": "http",
+      "url": "https://mcp.blue1.app/mcp"
+    }
+  }
+}

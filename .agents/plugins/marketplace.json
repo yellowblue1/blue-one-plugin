@@ -1,0 +1,20 @@
+{
+  "name": "blue-one",
+  "interface": {
+    "displayName": "Blue One"
+  },
+  "plugins": [
+    {
+      "name": "blue-one",
+      "source": {
+        "source": "local",
+        "path": "./plugins/blue-one"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
