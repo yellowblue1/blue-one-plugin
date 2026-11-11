@@ -1,6 +1,7 @@
 {
   "name": "blue-one",
   "version": "0.1.0",
+  "license": "MIT",
   "description": "Translate text and attached documents with Blue One, preserve file layouts, and explain connection or transfer problems.",
   "author": {
     "name": "Blue One",

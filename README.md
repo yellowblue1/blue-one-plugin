@@ -45,4 +45,4 @@ The plugin uses Blue One's actual translation result. If a step fails, it explai
 - On Claude Team/Enterprise, an owner may need to allow the plugin source, add the connector, and allow file-execution network access to **mcp.blue1.app**. Each member completes OAuth.
 - Installation and OAuth are separate. Organization policies and network restrictions still apply.
 
-No redistribution license is currently specified.
+Licensed under the [MIT License](LICENSE).
